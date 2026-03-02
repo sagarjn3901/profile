@@ -72,14 +72,6 @@ I specialize in writing clean, maintainable code, crafting responsive digital ex
 
 ---
 
-## 📊 GitHub Stats  
-
-![Sagar's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
-
-![Top Languages](https://img.shields.io/badge/GitHub-Top%20Languages-dark?style=for-the-badge)
-
----
-
 ## 🌟 Featured Projects  
 
 ### 🔹 Interactive Landing Page  
