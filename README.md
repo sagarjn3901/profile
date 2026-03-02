@@ -1,6 +1,6 @@
 # 🚀 Sagar Jain  
 
-## 👨‍💻 Web Developer | WordPress & Shopify Developer | Problem Solver  
+## 👨‍💻WordPress & Shopify Developer
 
 Hi there! 👋  
 
